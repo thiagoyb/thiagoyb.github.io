@@ -55,6 +55,7 @@ section.content{
 	-ms-border-radius: 50%;
 	-o-border-radius: 50%;
 	border-radius: 50%;
+	box-shadow: 0 0 0 4px rgb(255 255 255 / 10%), 0 0 0 8px rgb(255 255 255 / 10%), 0 0 20px #fff;
 }
 .animated{
 	-webkit-animation-duration:3s;
